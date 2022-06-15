@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/magazine-40b77.appspot.com/o/images%2Fdddd.jpg?alt=media&token=6d25960b-bb14-413e-9fd9-d2b9b8d211d3",
+      "product": "버즈 갤럭시",
+      "content": "컨텐츠테스트1"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/miniproject-6c667.appspot.com/o/images%2F%EC%95%84%EC%9D%B4%EC%9C%A0.jpg?alt=media&token=c40f7a91-e57b-4055-b62a-1e8bd528bc91",
+      "product": "품목명테스트1",
+      "content": "컨텐츠테스트1",
+      "id": 2
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/miniproject-6c667.appspot.com/o/images%2FKakaoTalk_20220612_231016424.png?alt=media&token=78ee1389-c141-4a92-9d9e-95f1d0d04c1c",
+      "product": "테스트3",
+      "content": "테스트3",
+      "id": 3
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/miniproject-6c667.appspot.com/o/images%2FKakaoTalk_20220612_231016424.png?alt=media&token=704dc8e4-1389-468c-99d9-1cc0b276f4af",
+      "product": "테스트1",
+      "content": "테스트2",
+      "id": 4
+    }
+    
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "ID": "test1",
+      "nickname": "test",
+      "password": "asd123",
+      "passwordCheck": "asd123"
+    },
+    {
+      "id": 2,
+      "ID": "test2",
+      "nickname": "test",
+      "password": "asd123",
+      "passwordCheck": "asd123"
+    },
+    {
+      "id": 3,
+      "ID": "test3",
+      "nickname": "test",
+      "password": "asd123",
+      "passwordCheck": "asd123"
+    },
+    {
+      "ID": "test4",
+      "nickname": "test",
+      "password": "asd123",
+      "passwordCheck": "asd123",
+      "id": 4
+    },
+    {
+      "ID": "sparta1@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 5
+    },
+    {
+      "ID": "sparta2@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 6
+    },
+    {
+      "ID": "sparta3@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 7
+    },
+    {
+      "ID": "sparta4@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 8
+    },
+    {
+      "ID": "sparta5@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 9
+    },
+    {
+      "ID": "sparta6@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 10
+    },
+    {
+      "ID": "sparta7@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 11
+    },
+    {
+      "ID": "sparta8@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta1234",
+      "id": 12
+    },
+    {
+      "ID": "sparta9@sparta.com",
+      "nickname": "스파르타",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 13
+    },
+    {
+      "ID": "sparta123",
+      "nickname": "sparta123",
+      "password": "sparta123",
+      "passwordCheck": "sparta123",
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    }
+  ]
+}
